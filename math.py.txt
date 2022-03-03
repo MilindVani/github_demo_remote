@@ -1,0 +1,15 @@
+# add function
+def add(x,y)
+    retrun x+y;
+# Substract function
+def Substract(x,y)
+    return y-x; 
+# mulitply function
+def mulitply(x,y)
+    mulitply
+# divide function
+def divide(x,y)
+    retrun y/x;
+# square implementation
+def square(x)
+    return x;
