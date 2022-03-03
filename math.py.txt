@@ -17,3 +17,4 @@ def square(x)
 # area of circle 
 def square(r)
    return 2*pi*r;
+    return r;
