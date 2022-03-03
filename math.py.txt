@@ -4,7 +4,7 @@ def add(x,y)
     return y + x;
 # Substract function
 def Substract(x,y)
-    return y-x; 
+    pass;
 # mulitply function
 def mulitply(x,y)
     mulitply
