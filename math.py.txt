@@ -1,6 +1,6 @@
 # add function
 def add(x,y)
-    retrun x+y;
+    
     return y + x;
 # Substract function
 def Substract(x,y)
