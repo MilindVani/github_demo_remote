@@ -13,3 +13,6 @@ def divide(x,y)
 # square implementation
 def square(x)
     return x;
+# area of circle 
+def square(r)
+   return 2*pi*r;
